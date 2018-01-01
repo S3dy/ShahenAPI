@@ -59,7 +59,6 @@ return [
             'username' => env('DB_USERNAME','rbs'),
             'password' => env('DB_PASSWORD','rbs'),
             'options' => [
-            'database' => 'rbs' // sets the authentication database required by mongo 3
     ]
 ],
 
