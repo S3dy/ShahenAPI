@@ -35,7 +35,7 @@ class postjobcontroller extends Controller
     	$help=$req->help;
     	$freelancer_doing=$req->freelancer_doing;
     	$qualities=$req->qualities;
-    	//$files="public/uploads/filename.pdf";
+    	//$files="/uploads/filename.pdf";
         $apply_job=$req->apply_job;
         $qua_free_type=$req->qua_free_type;
         $qua_job_succ=$req->qua_job_succ;

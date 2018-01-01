@@ -4,7 +4,7 @@
  <header class="navheader">
             <div class="container login-container">
                 <a class="logo1 a-navbar" href="{{url('/')}}">
-                    <img src="{{ URL::asset('public/images/upwork-logo.svg')}}" />
+                    <img src="{{ URL::asset('/images/upwork-logo.svg')}}" />
             </a>
           <div class="visible-md visible-lg desktop-navbar">
 
